@@ -18,5 +18,8 @@ Diseñar y desarrollar una aplicación para una institución academica; en donde
 -Ingresar exalumno: ingresar datos del exalumno, seleccionar tramites.
 - Aspirante: ingresar datos del aspirante, solicitar ficha.
 
+![](https://github.com/carolbandoher/T3A1---Ejercicio-01/blob/main/Estudiante.png)
+
+
 
 
