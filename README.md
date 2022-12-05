@@ -20,6 +20,6 @@ Diseñar y desarrollar una aplicación para una institución academica; en donde
 
 ![](https://github.com/carolbandoher/ProyectoFinal/blob/main/0000001.png)
 
-
+![](https://github.com/carolbandoher/ProyectoFinal/blob/main/0000002.png)
 
 
